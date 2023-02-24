@@ -184,9 +184,9 @@ window.onmousemove = e => {
     Comics
   </div>
 
-<a data-sveltekit-preload-data="tap" href="/comics">
+<!-- <a data-sveltekit-preload-data="tap" href="/comics">
   <h1>COMICS</h1>
-</a>
+</a> -->
 </div>
 
 <a id="source-link" class="meta-link" href="https://palette.supply" target="_blank">
