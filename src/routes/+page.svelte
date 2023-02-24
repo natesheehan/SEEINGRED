@@ -25,9 +25,6 @@ window.onmousemove = e => {
     easing: "ease"
   })
   }
-
-
-
 }
 </script>
 <style>
@@ -159,13 +156,15 @@ window.onmousemove = e => {
   font-family: Gloria Hallelujah ;
 }
 </style>
+
 <svelte:head>
     <style>
         @import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Space+Mono:wght@400;700&display=swap");
     </style>
+      <link rel="icon" type="image/png" href={"/images/logo.png"} />
 </svelte:head>
+
 <body transition:fade>
-  
 <div id="gallery">
   <div class="tile">
     <img src="/images/coming soon.png" />
