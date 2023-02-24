@@ -10,10 +10,9 @@ const moveCursor = (e)=> {
    
   cursor.style.transform = `translate3d(${mouseX}px, ${mouseY}px, 0)`;
   
- 
 }
-
 window.addEventListener('mousemove', moveCursor)
+
 }
 
 </script>
@@ -30,7 +29,7 @@ window.addEventListener('mousemove', moveCursor)
 <body transition:fade>
     <div class="cursor" style="height:100%;width:100%">
         <img src="images/fronk-chicken-nightmares-3-5.gif" alt="test" style="height: 38vh;position: fixed;bottom: 0;">
-
+        <img src="images/logo.png" alt="">
     </div>
 
 
