@@ -36,16 +36,16 @@
         margin:auto;display:block;height:100vh;transform: rotate(2deg);position: relative;
       }
       .shop-link{
-        margin:auto;display:block;height:70vh;transform: rotate(7deg); top: -120px;left: 35%;position:fixed
+        margin:auto;display:block;height:90vh;transform: rotate(7deg); top: -100px;left: 33%;position:fixed
       }
       .archive-link{
-        margin:auto;display:block;height:70vh;transform: rotate(3deg); top:0px;left: 35%;position:fixed;opacity:0.6
+        margin:auto;display:block;height:90vh;transform: rotate(3deg); top:20px;left: 33%;position:fixed;opacity:0.6
       }
       .comic-link{
-        margin:auto;display:block;height:70vh;transform: rotate(9deg); top: 120px;left: 35%;position:fixed;opacity:0.6
+        margin:auto;display:block;height:90vh;transform: rotate(9deg); top: 140px;left: 33%;position:fixed;opacity:0.6
       }
       .about-link{
-        margin:auto;display:block;height:70vh;transform: rotate(4deg); top: 240px;left: 35%;position:fixed;opacity:0.6
+        margin:auto;display:block;height:90vh;transform: rotate(4deg); top: 260px;left: 33%;position:fixed;opacity:0.6
       }
 
       @media only screen and (max-width: 600px) {
@@ -76,7 +76,7 @@
           <img src="images/result (4).png" alt="" class="about-link">
         </div>
 
-          <img src="images/fronk-chicken-nightmares-3-5.gif" alt="test" style="height: 38vh;position: fixed;bottom: 0;">
+          <img src="images/fronk-chicken-nightmares-3-5.gif" alt="test" style="height: 38vh;position: fixed;bottom: 0;z-index:10">
       </div>
   
   
