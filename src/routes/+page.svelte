@@ -1,6 +1,7 @@
 <script>
 	import { browser } from "$app/environment";
   import { fade } from "svelte/transition";
+  
   if(browser){
     const gallery = document.getElementById("gallery");
 
