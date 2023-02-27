@@ -10,12 +10,12 @@
 </script>
 
 <li class:selected on:click bind:this={node}>
-	<h2>{product.title}</h2>
+	<img src={product.title} alt="">
 </li>
 
 {#if selected}
 	<div in:zoom={{node, delay: 0, easing: quintInOut}} out:zoom={{node, delay: 400, easing: quintInOut}} class="expanded-view" on:click>
-		<img src="images/long johns and jacket.png" style="height:40vh" alt="">
+		<img src="images/long johns and jacket.png" class="img-small" style="height:40vh" alt="">
         <h2>{product.title}</h2>
 		<span in:fade={{delay: 300}} out:fade={{delay: 0}} class="price">
 			{product.price.toLocaleString('en-US', {style: 'currency', currency: 'USD'})}
@@ -28,6 +28,9 @@
 {/if}
 
 <style>
+	.img-small{
+		height: 12vh;
+	}
 	li, .expanded-view {
 		width: 200px;
 		height: 200px;

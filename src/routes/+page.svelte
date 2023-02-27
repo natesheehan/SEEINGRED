@@ -23,43 +23,69 @@
         overflow: hidden;
         cursor:grab;
           background-color: #d6d6d6;
-          background-image: url("images/logo.png");
-          border-image-repeat: stretch;  
-  border-image-slice: 30;
-    background-size: 18vh;
+          background-image: url("images/IMG_5841.jpg");
+          background-position: center;
+    background-size: cover;
       }
-      .cursor{
-          background-image: url("images/cursor for website.png");
+  
+
+      .notepad{
+        margin:auto;display:block;height:100vh;transform: rotate(2deg);position: fixed;
       }
+      .menu-items{
+        margin:auto;display:block;transform: rotate(3deg); top:40%;left: 48%;position:fixed;
+      }
+      .menu-item{
+        display: block;
+      }
+
 
       .notepad{
         margin:auto;display:block;height:100vh;transform: rotate(2deg);position: relative;
       }
       .shop-link{
-        margin:auto;display:block;height:90vh;transform: rotate(7deg); top: -100px;left: 33%;position:fixed
+        opacity: 1;
       }
       .archive-link{
-        margin:auto;display:block;height:90vh;transform: rotate(3deg); top:20px;left: 33%;position:fixed;opacity:0.6
+        opacity:0.6
       }
       .comic-link{
-        margin:auto;display:block;height:90vh;transform: rotate(9deg); top: 140px;left: 33%;position:fixed;opacity:0.6
+        opacity:0.6
       }
       .about-link{
-        margin:auto;display:block;height:90vh;transform: rotate(4deg); top: 260px;left: 33%;position:fixed;opacity:0.6
+        opacity:0.6
+      }
+
+      .shop-link:hover{
+        transform: rotate(-7deg);
+      }
+      .comic-link{
+       transform: rotate(-3reg);
+      }
+      .about-link{
+        transform: rotate(-9reg);
+      }
+      .archive-link{
+        transform: rotate(4reg);
       }
 
       @media only screen and (max-width: 600px) {
+        .notepad{
+          margin-top: 30%;
+          height:70vh;
+          margin-right:2%;
+        }
         .shop-link{
-        margin:auto;display:block;height:70vh;transform: rotate(7deg); top: -120px;left: 15%;position:fixed
+        height:7vh;top: -120px;left: 15%;
       }
       .archive-link{
-        margin:auto;display:block;height:70vh;transform: rotate(3deg); top:0px;left: 15%;position:fixed;opacity:0.6
+        height:7vh;top: -120px;left: 15%;
       }
       .comic-link{
-        margin:auto;display:block;height:70vh;transform: rotate(9deg); top: 120px;left: 15%;position:fixed;opacity:0.6
+        height:7vh;top: -120px;left: 15%;
       }
       .about-link{
-        margin:auto;display:block;height:70vh;transform: rotate(4deg); top: 240px;left: 15%;position:fixed;opacity:0.6
+        height:7vh;top: -120px;left: 15%;
       }
 }
 
@@ -69,11 +95,39 @@
   <body transition:fade>
       <div class="cursor" style="height:100%;width:100%">
         <div style="position: relative; left: 0; top: 0;">
-          <img src="images/notepad.png" alt="" class="notepad">
-          <img src="images/result (1).png" alt="" class="shop-link">
-          <img src="images/result (2).png" alt="" class="archive-link">
-          <img src="images/result (3).png" alt="" class="comic-link">
-          <img src="images/result (4).png" alt="" class="about-link">
+          <img src="images/homepage notepad seperate .png" alt="" class="notepad">
+
+          <div class="menu-items">
+
+
+
+            <div class="menu-item">
+              <a href="/shop">
+                <img src="images/result (1) (1).png" alt="" class="shop-link">
+              </a>
+            </div>
+
+            <div class="menu-item">
+              <a href="/comics">
+                <img src="images/result (3) (1).png" alt="" class="comic-link">
+              </a>
+            </div>
+            
+            <div class="menu-item">
+              <a href="/about">
+                <img src="images/result (4) (1).png" alt="" class="about-link">
+              </a>
+            </div>
+
+            <div class="menu-item">
+              <a href="/archive">
+                <img src="images/result (2) (1).png" alt="" class="archive-link">
+              </a>
+            </div>
+
+
+          </div>
+          
         </div>
 
           <img src="images/fronk-chicken-nightmares-3-5.gif" alt="test" style="height: 38vh;position: fixed;bottom: 0;z-index:10">
