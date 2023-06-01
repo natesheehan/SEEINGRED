@@ -1,6 +1,10 @@
 {"inv":[
+[
  {
-   "Name": "Barrell back trench coat",
+   "ID": 1,
+   "Name": "Barrell Back Trench Coat",
+   "Category": "hwj",
+   "Main_Img": "/products/Heavy-Weight Jackets/Barell Back Trench Coat/1.png",
    "Price": 500,
    "RRP": 700,
    "Stock": 1,
@@ -12,7 +16,10 @@
    "Description": "oversized cotton trench coat with hood. featuring large front patch pockets, and appliques 'cowtown colloseum' patch on the back."
  },
  {
-   "Name": "super wide barell trousers",
+   "ID": 2,
+   "Name": "Super Wide Barel Trousers",
+   "Category": "pants",
+   "Main_Img": "/products/Pants/Super Wide Barell Trousers/1.png",
    "Price": 180,
    "RRP": 300,
    "Stock": 1,
@@ -24,7 +31,10 @@
    "Description": "cotton trousers with a super-wide fit, tapered towards the ankle. comes with button braces"
  },
  {
+   "ID": 3,
    "Name": "Super Wide Barell trousers (wool)",
+   "Category": "pants",
+   "Main_Img": "/products/Pants/Super Wide Barell Trousers (wool)/1.png",
    "Price": 180,
    "RRP": 300,
    "Stock": 1,
@@ -36,7 +46,10 @@
    "Description": "woolen trousers in a super-wide fit, tapered towards the ankle. come with button braces "
  },
  {
+   "ID": 4,
    "Name": "Frankenstien shirt long sleeve ",
+   "Category": "shirt",
+   "Main_Img": "/products/Shirts/Frankenstein Shirt Long Sleeve/1.png",
    "Price": 80,
    "RRP": 160,
    "Stock": 1,
@@ -48,7 +61,10 @@
    "Description": "cotton, plaid shirt."
  },
  {
+   "ID": 5,
    "Name": "Orange rucksack",
+   "Category": "accessories",
+   "Main_Img": "/products/Accessories/Orange rucksack/1.png",
    "Price": 100,
    "RRP": 180,
    "Stock": 1,
@@ -60,7 +76,10 @@
    "Description": "made from a part synthetic, heavy duty wool. the bag can be draped into different shapes using the metal, handmade buttons. all other hardware is handmade. "
  },
  {
+   "ID": 6,
    "Name": "Netted crouch longjohn",
+   "Category": "pants",
+   "Main_Img": "/products/Pants/Netted Crouch Long John/1.png",
    "Price": 100,
    "RRP": 150,
    "Stock": 1,
@@ -72,7 +91,10 @@
    "Description": "netted longjohns in a heavyweight cotton jersey. hand dyed and featuring a popper clasp at the waistband with a bungee cord for adjustability. "
  },
  {
+   "ID": 7,
    "Name": "Cropped Workers Jacket",
+   "Category": "hwj",
+   "Main_Img": "/products/Heavy-Weight Jackets/Cropped Workers Jacket/1.png",
    "Price": 120,
    "RRP": 180,
    "Stock": 1,
@@ -84,7 +106,10 @@
    "Description": ""
  },
  {
+   "ID": 8,
    "Name": "Cowboy Cape",
+   "Category": "accessories",
+   "Main_Img": "/products/Accessories/Cowboy Cape/1.png",
    "Price": 110,
    "RRP": 200,
    "Stock": 1,
@@ -96,7 +121,10 @@
    "Description": "cape toile made from workers jackets and a pair of workers pants. featuring a cowboy patch on the right shoulder."
  },
  {
+   "ID": 9,
    "Name": "Western type 2 trucker jacket",
+   "Category": "hwj",
+   "Main_Img": "/prodcuts/Heavy-Weight Jackets/Western Type 2 Trucker Jacket/1.png",
    "Price": 220,
    "RRP": 400,
    "Stock": 1,
@@ -108,7 +136,10 @@
    "Description": ""
  },
  {
+   "ID": 10,
    "Name": "Skyreacher Puffer Sample Jacket",
+   "Category": "hwj",
+   "Main_Img": "/products/Heavy-Weight Jackets/Skyreacher Puffer Sample Jacket/1.png",
    "Price": 440,
    "RRP": 600,
    "Stock": 1,
@@ -120,7 +151,10 @@
    "Description": "synthetic puffer jacket sample. includes some raw edges. "
  },
  {
+   "ID": 11,
    "Name": "Swampthing wideboy ",
+   "Category": "hwj",
+   "Main_Img": "/products/Heavy-Weight Jackets/Swamp Thing Wideboy/1.png",
    "Price": 500,
    "RRP": 550,
    "Stock": 1,
@@ -132,7 +166,10 @@
    "Description": "heavy weight wideboy. outershell made from heavy cotton drill and each leaf machine stitched onto the surface. Cotton lined with a synthetic border."
  },
  {
+   "ID": 12,
    "Name": "Bull riding vest",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/Bull Riding Vest/1.png",
    "Price": 80,
    "RRP": 110,
    "Stock": 1,
@@ -144,7 +181,10 @@
    "Description": "made from cotton ribbing with elastane. features an appliques bull head. hand dyed."
  },
  {
-   "Name": "Bull ridesrs vest",
+   "ID": 13,
+   "Name": "Bull Riders vest",
+   "Category": "vests",
+   "Main_Img": "/products/Vests/Bull Riders Vest/1.png",
    "Price": 160,
    "RRP": 280,
    "Stock": 1,
@@ -156,7 +196,10 @@
    "Description": "recycled vest made from cotton. with appliques patches and padding. hand dyed "
  },
  {
+   "ID": 14,
    "Name": "Jogging pants",
+   "Category": "pants",
+   "Main_Img": "/products/Pants/Jogging Pants/1.png",
    "Price": 100,
    "RRP": 150,
    "Stock": 1,
@@ -168,7 +211,10 @@
    "Description": "made from cotton ribbing with elastane. features an appliques set of guns on the hips. hand dyed."
  },
  {
+   "ID": 15,
    "Name": "cowtown chaps",
+   "Category": "pants",
+   "Main_Img": "/products/Pants/Cowtown Chaps/1.png",
    "Price": 200,
    "RRP": 280,
    "Stock": 1,
@@ -180,7 +226,10 @@
    "Description": "chaps made from a recycled jacket. fabric contents, cotton and nylon. features appliques patches."
  },
  {
+   "ID": 16,
    "Name": "Soft Armour Set",
+   "Category": "hwj",
+   "Main_Img": "/products//Heavy-Weight Jackets/Soft Armour Set/1.png",
    "Price": 440,
    "RRP": 600,
    "Stock": 1,
@@ -192,7 +241,10 @@
    "Description": "synthetic hood and arms set, to be worn on top of an existing item of clothing. some bleeding of leather into the main panels is reason for price. "
  },
  {
+   "ID": 17,
    "Name": "Patches",
+   "Category": "accessories",
+   "Main_Img": "/products/Accessories/Patches/1.png",
    "Price": 10,
    "RRP": null,
    "Stock": 4,
@@ -204,7 +256,10 @@
    "Description": "assortment of patches made from synthetics, cottons and leathers."
  },
  {
+   "ID": 18,
    "Name": "Black Vest ",
+   "Category": "vests",
+   "Main_Img": "/products/Vests/Black Vest/1.png",
    "Price": 140,
    "RRP": 180,
    "Stock": 1,
@@ -216,7 +271,10 @@
    "Description": "early uni project piece. heavy foam core interior. exterior made from cotton coated in black silicone (caulking) in order to create a waterproof seal. features an adjustable strap and carabiners"
  },
  {
+   "ID": 19,
    "Name": "Gloves",
+   "Category": "accessories",
+   "Main_Img": "/products/Vests/Gloves/1.png",
    "Price": 85,
    "RRP": 120,
    "Stock": 1,
@@ -228,7 +286,10 @@
    "Description": ""
  },
  {
+   "ID": 20,
    "Name": "Thunder caps",
+   "Category": "hats",
+   "Main_Img": "/products/Hats/Thunder Caps/1.png",
    "Price": 75,
    "RRP": null,
    "Stock": 10,
@@ -240,7 +301,10 @@
    "Description": "made from a variery of materials, mostly cottons, ribs and synthetic ripstops."
  },
  {
+   "ID": 21,
    "Name": "Cowboy hat ",
+   "Category": "hats",
+   "Main_Img": "/products/Hats/Cowboy Hat/1.png",
    "Price": 100,
    "RRP": null,
    "Stock": 1,
@@ -252,7 +316,10 @@
    "Description": "made from upholstery fabrics with a wire brim covered in green ribbing."
  },
  {
+   "ID": 22,
    "Name": "Red Toy",
+   "Category": "accessories",
+   "Main_Img": "/products/Accessories/Red Toy/1.png",
    "Price": 180,
    "RRP": null,
    "Stock": 1,
@@ -264,7 +331,10 @@
    "Description": "cotton ribbing toy stuffed with recycled scrap fabric."
  },
  {
+   "ID": 23,
    "Name": "Bag toy",
+   "Category": "accessories",
+   "Main_Img": "/products/Accessories/Bag Toy/1.png",
    "Price": 180,
    "RRP": null,
    "Stock": 1,
