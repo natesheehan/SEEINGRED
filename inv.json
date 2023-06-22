@@ -1,6 +1,246 @@
 {
    "inv":[
  {
+   "ID": 24,
+   "Name": "stone the crows puffa jacket",
+   "Category": "hwj",
+   "Main_Img": "/products//Heavy-Weight Jackets/stone the crows puffa /1.png",
+   "Img_Path": "/products//Heavy-Weight Jackets/stone the crows puffa /",
+   "No_Img": 7,
+   "Price": 580,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "synthetic and cotton mix puffa jacket. fish bowl hood with cropped front and back. bungee cord adjustable hem."
+ },
+ {
+   "ID": 25,
+   "Name": "green bombardier jacket",
+   "Category": "LWJ",
+   "Main_Img": "/products/Light-Weight Jackets/green bombardier jacket/1.png ",
+   "Img_Path": "/products/Light-Weight Jackets/green bombardier jacket/",
+   "No_Img": 5,
+   "Price": 420,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "made from cotton and nylon ripstop. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
+ },
+ {
+   "ID": 26,
+   "Name": "red bombardier jacket",
+   "Category": "LWJ",
+   "Main_Img": "/products/Light-Weight Jackets/red bombardier jacket/1.png ",
+   "Img_Path": "/products/Light-Weight Jackets/red bombardier jacket/",
+   "No_Img": 5,
+   "Price": 420,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "made from cotton. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
+ },
+ {
+   "ID": 27,
+   "Name": "blue bombardier jacket",
+   "Category": "LWJ",
+   "Main_Img": "/products/Light-Weight Jackets/blue bombardier jacket/1.png ",
+   "Img_Path": "/products/Light-Weight Jackets/blue bombardier jacket/",
+   "No_Img": 5,
+   "Price": 420,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "made from corduroy and nylon. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
+ },
+ {
+   "ID": 28,
+   "Name": "red and orange trucker hybrid",
+   "Category": "LWJ",
+   "Main_Img": "/products/Light-Weight Jackets/red and orange trucker hybrid/1.png ",
+   "Img_Path": "/products/Light-Weight Jackets/red and orange trucker hybrid/",
+   "No_Img": 4,
+   "Price": 420,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "made from cotton, fleece and some leather detailings. cropped fit. "
+ },
+ {
+   "ID": 29,
+   "Name": "apron jacket",
+   "Category": "LWJ",
+   "Main_Img": "/products/Light-Weight Jackets/red and orange trucker hybrid/1.png ",
+   "Img_Path": "/products/Light-Weight Jackets/red and orange trucker hybrid/",
+   "No_Img": 5,
+   "Price": 380,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "made from recycled aprons. 100% cotton. "
+ },
+ {
+   "ID": 30,
+   "Name": "fronkenstien grey and black ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien grey and black /1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien grey and black /",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made using recycled tshirts "
+ },
+ {
+   "ID": 31,
+   "Name": "fronkenstien black and orange ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien black and orange/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien black and orange/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 32,
+   "Name": "fronkenstien red and blue",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien red and blue/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien red and blue/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 33,
+   "Name": "fronkenstien blue striped ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien blue striped/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien blue striped/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 34,
+   "Name": "fronkenstien purple and red striped",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien purple and red-striped/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien purple and red-striped/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 35,
+   "Name": "fronkenstien black and red longsleeve ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien black and red longsleeve/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien black and red longsleeve/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 36,
+   "Name": "fronkenstien black and red NTS ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien black and red NTS/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien black and red NTS/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 37,
+   "Name": "fronkenstien orange and red star",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien orange and red star/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien orange and red star/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 38,
+   "Name": "fronkenstien orange and red 2 head hole ",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien orange and red 2 head hole/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien orange and red 2 head hole/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
+   "ID": 39,
+   "Name": "fronkenstien black and grey circles",
+   "Category": "tshirts",
+   "Main_Img": "/products/T-Shirts/fronkenstien black and grey circles/1.png ",
+   "Img_Path": "/products/T-Shirts/fronkenstien black and grey circles/",
+   "No_Img": 2,
+   "Price": 100,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 35,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
    "ID": 1,
    "Name": "Barrel Back Trench Coat",
    "Category": "hwj",
@@ -12,9 +252,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "oversized cotton trench coat with hood. featuring large front patch pockets, and appliques 'cowtown colloseum' patch on the back."
  },
  {
@@ -29,9 +267,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "cotton trousers with a super-wide fit, tapered towards the ankle. comes with button braces"
  },
  {
@@ -46,9 +282,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "woolen trousers in a super-wide fit, tapered towards the ankle. come with button braces "
  },
  {
@@ -63,9 +297,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "cotton, plaid shirt."
  },
  {
@@ -80,14 +312,12 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "made from a part synthetic, heavy duty wool. the bag can be draped into different shapes using the metal, handmade buttons. all other hardware is handmade. "
  },
  {
    "ID": 6,
-   "Name": "Netted crouch longjohn",
+   "Name": "Netted crotch longjohn",
    "Category": "pants",
    "Main_Img": "/products/Pants/Netted Crouch Long John/1.png",
    "Img_Path": "/products/Pants/Netted Crouch Long John/",
@@ -97,9 +327,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "netted longjohns in a heavyweight cotton jersey. hand dyed and featuring a popper clasp at the waistband with a bungee cord for adjustability. "
  },
  {
@@ -114,9 +342,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "SOLD",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": ""
  },
  {
@@ -131,9 +357,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "cape toile made from workers jackets and a pair of workers pants. featuring a cowboy patch on the right shoulder."
  },
  {
@@ -148,9 +372,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "SOLD",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": ""
  },
  {
@@ -165,14 +387,12 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "synthetic puffer jacket sample. includes some raw edges. "
  },
  {
    "ID": 11,
-   "Name": "Swampthing wideboy ",
+   "Name": "Swamp Thing wideboy ",
    "Category": "hwj",
    "Main_Img": "/products/Heavy-Weight Jackets/Swamp Thing Wideboy/1.png",
    "Img_Path": "/products/Heavy-Weight Jackets/Swamp Thing Wideboy/",
@@ -182,9 +402,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "heavy weight wideboy. outershell made from heavy cotton drill and each leaf machine stitched onto the surface. Cotton lined with a synthetic border."
  },
  {
@@ -199,9 +417,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "made from cotton ribbing with elastane. features an appliques bull head. hand dyed."
  },
  {
@@ -216,9 +432,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "recycled vest made from cotton. with appliques patches and padding. hand dyed "
  },
  {
@@ -233,9 +447,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "made from cotton ribbing with elastane. features an appliques set of guns on the hips. hand dyed."
  },
  {
@@ -250,9 +462,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "chaps made from a recycled jacket. fabric contents, cotton and nylon. features appliques patches."
  },
  {
@@ -267,9 +477,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "synthetic hood and arms set, to be worn on top of an existing item of clothing. some bleeding of leather into the main panels is reason for price. "
  },
  {
@@ -284,9 +492,7 @@
    "Stock": 4,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "assortment of patches made from synthetics, cottons and leathers."
  },
  {
@@ -301,9 +507,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "early uni project piece. heavy foam core interior. exterior made from cotton coated in black silicone (caulking) in order to create a waterproof seal. features an adjustable strap and carabiners"
  },
  {
@@ -318,9 +522,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "SOLD",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": ""
  },
  {
@@ -335,10 +537,8 @@
    "Stock": 10,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
-   "Description": "made from a variery of materials, mostly cottons, ribs and synthetic ripstops."
+   "Measurements": "",
+   "Description": "made using a variery of materials, mostly cottons, ribs and synthetic ripstops."
  },
  {
    "ID": 21,
@@ -352,9 +552,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "made from upholstery fabrics with a wire brim covered in green ribbing."
  },
  {
@@ -369,9 +567,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "cotton ribbing toy stuffed with recycled scrap fabric."
  },
  {
@@ -386,9 +582,7 @@
    "Stock": 1,
    "Postage": 35,
    "Sold": "F",
-   "Inseam": "",
-   "Waist": "",
-   "Out leg Length": "",
+   "Measurements": "",
    "Description": "made from cotton and stuffed with recycled sheeps wool. bag is made from hand dyed ribbing. "
  }
 ]}
