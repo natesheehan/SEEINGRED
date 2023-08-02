@@ -158,8 +158,8 @@
    "Name": "fronkenstein t shirt 4",
    "Drop": 2,
    "Category": "T-Shirts",
-   "Main_Img": "/products/T-Shirts/fronkenstein t shirt 4/1.webp",
-   "Img_Path": "/products/T-Shirts/fronkenstein t shirt 4/",
+   "Main_Img": "/products/T-Shirts/fronkenstien purple and red striped/1.webp ",
+   "Img_Path": "/products/T-Shirts/fronkenstien purple and red striped/",
    "No_Img": 2,
    "Price (no vat)": 100,
    "Price": 105,
@@ -168,7 +168,7 @@
    "Postage": 15,
    "Sold": "F",
    "Measurements": "",
-   "Description": "all made from recycled tshirts"
+   "Description": ""
  },
  {
    "ID": 29,
@@ -324,6 +324,23 @@
    "Description": "all made from recycled tshirts"
  },
  {
+   "ID": null,
+   "Name": "fronkenstein t shirt 14",
+   "Drop": 2,
+   "Category": "T-Shirts",
+   "Main_Img": "/products/T-Shirts/fronkenstein t shirt 14/1.webp",
+   "Img_Path": "/products/T-Shirts/fronkenstein t shirt 14/",
+   "No_Img": 2,
+   "Price (no vat)": 100,
+   "Price": 105,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 15,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "all made from recycled tshirts"
+ },
+ {
    "ID": 30,
    "Name": "fronkenstien grey and black ",
    "Drop": 1,
@@ -388,23 +405,6 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "SOLD",
-   "Measurements": "",
-   "Description": "all made from recycled tshirts"
- },
- {
-   "ID": 34,
-   "Name": "fronkenstien purple and red striped",
-   "Drop": 1,
-   "Category": "T-Shirts",
-   "Main_Img": "/products/T-Shirts/fronkenstien purple and red striped/1.webp ",
-   "Img_Path": "/products/T-Shirts/fronkenstien purple and red striped/",
-   "No_Img": 2,
-   "Price (no vat)": 100,
-   "Price": 105,
-   "RRP": null,
-   "Stock": 1,
-   "Postage": 15,
-   "Sold": "F",
    "Measurements": "",
    "Description": "all made from recycled tshirts"
  },
