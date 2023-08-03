@@ -103,23 +103,6 @@
    "Description": "made from recycled aprons. 100% cotton. "
  },
  {
-   "ID": 53,
-   "Name": "Kanagroo hoodie black and red",
-   "Drop": 2,
-   "Category": "Hoodie",
-   "Main_Img": "/products/Hoodies/Kanagroo hoodie black and red/1.webp",
-   "Img_Path": "/products/Hoodies/Kanagroo hoodie black and red/",
-   "No_Img": 3,
-   "Price (no vat)": 250,
-   "Price": 262.5,
-   "RRP": null,
-   "Stock": 1,
-   "Postage": 15,
-   "Sold": "F",
-   "Measurements": "",
-   "Description": "Made from cotton jersey with cotton ribbing details. Bungee cord waist "
- },
- {
    "ID": 7,
    "Name": "fronkenstein t shirt 1",
    "Drop": 2,
@@ -133,7 +116,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "Large ",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -150,7 +133,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -167,7 +150,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -184,7 +167,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -201,7 +184,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -218,7 +201,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -235,7 +218,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -252,7 +235,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -269,7 +252,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -286,7 +269,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -303,7 +286,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -320,7 +303,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -337,7 +320,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -354,7 +337,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -524,7 +507,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Collar to hem - 60 inches / pit to pit - 45 inches / shoulder to cuff - 30 inches",
    "Description": "oversized cotton trench coat with hood. featuring large front patch pockets, and appliques 'cowtown colloseum' patch on the back."
  },
  {
@@ -541,7 +524,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Waist circumference- 50 inches / leg length 32 inches ",
    "Description": "cotton trousers with a super-wide fit, tapered towards the ankle. comes with button braces"
  },
  {
@@ -558,7 +541,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Waist circumference- 50 inches / leg length 32 inches ",
    "Description": "woolen trousers in a super-wide fit, tapered towards the ankle. come with button braces "
  },
  {
@@ -575,7 +558,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Medium",
    "Description": "cotton, plaid shirt."
  },
  {
@@ -592,7 +575,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S ",
    "Description": "made from a part synthetic, heavy duty wool. the bag can be draped into different shapes using the metal, handmade buttons. all other hardware is handmade. "
  },
  {
@@ -609,7 +592,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Small - 30 inch adjustable waist / 28 inch leg ",
    "Description": "netted longjohns in a heavyweight cotton jersey. hand dyed and featuring a popper clasp at the waistband with a bungee cord for adjustability. "
  },
  {
@@ -643,7 +626,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S",
    "Description": "cape toile made from workers jackets and a pair of workers pants. featuring a cowboy patch on the right shoulder."
  },
  {
@@ -677,7 +660,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Collar to hem - 22 inches / pit to pit - 25 inches / arm length - 22 inches ",
    "Description": "synthetic puffer jacket sample. includes some raw edges. "
  },
  {
@@ -694,7 +677,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Collar to hem - 22 inches / pit to pit - 25 inches / arm length - 22 inches ",
    "Description": "heavy weight wideboy. outershell made from heavy cotton drill and each leaf machine stitched onto the surface. Cotton lined with a synthetic border."
  },
  {
@@ -711,7 +694,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Medium",
    "Description": "made from cotton ribbing with elastane. features an appliques bull head. hand dyed."
  },
  {
@@ -728,7 +711,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S ",
    "Description": "recycled vest made from cotton. with appliques patches and padding. hand dyed "
  },
  {
@@ -745,7 +728,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Waist - 30 inches adjustable / leg length - 32 inches ",
    "Description": "made from cotton ribbing with elastane. features an appliques set of guns on the hips. hand dyed."
  },
  {
@@ -779,7 +762,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S - adjustable arms straps ",
    "Description": "synthetic hood and arms set, to be worn on top of an existing item of clothing. some bleeding of leather into the main panels is reason for price. "
  },
  {
@@ -813,7 +796,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large ",
    "Description": "early uni project piece. heavy foam core interior. exterior made from cotton coated in black silicone (caulking) in order to create a waterproof seal. features an adjustable strap and carabiners"
  },
  {
@@ -847,7 +830,7 @@
    "Stock": 10,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S",
    "Description": "made using a variery of materials, mostly cottons, ribs and synthetic ripstops."
  },
  {
@@ -864,7 +847,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "Large ",
    "Description": "made from upholstery fabrics with a wire brim covered in green ribbing."
  },
  {
@@ -881,7 +864,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S ",
    "Description": "cotton ribbing toy stuffed with recycled scrap fabric."
  },
  {
@@ -898,7 +881,24 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "",
+   "Measurements": "O/S ",
    "Description": "made from cotton and stuffed with recycled sheeps wool. bag is made from hand dyed ribbing. "
+ },
+ {
+   "ID": 53,
+   "Name": "Kanagroo hoodie black and red",
+   "Drop": 2,
+   "Category": "Hoodie",
+   "Main_Img": "/products/Hoodies/Kanagroo hoodie black and red/1.webp",
+   "Img_Path": "/products/Hoodies/Kanagroo hoodie black and red/",
+   "No_Img": 3,
+   "Price (no vat)": 250,
+   "Price": 262.5,
+   "RRP": null,
+   "Stock": 1,
+   "Postage": 15,
+   "Sold": "F",
+   "Measurements": "Large ",
+   "Description": "Made from cotton jersey with cotton ribbing details. Bungee cord waist "
  }
 ]}
