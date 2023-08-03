@@ -1,7 +1,7 @@
 {
    "inv":[
  {
-   "ID": 1,
+   "ID": 0,
    "Name": "stone the crows puffa jacket",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -18,7 +18,7 @@
    "Description": "synthetic and cotton mix puffa jacket. fish bowl hood with cropped front and back. bungee cord adjustable hem."
  },
  {
-   "ID": 2,
+   "ID": 1,
    "Name": "green bombardier jacket",
    "Drop": 1,
    "Category": "Light Weight Jacket",
@@ -35,7 +35,7 @@
    "Description": "made from cotton and nylon ripstop. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
  },
  {
-   "ID": 3,
+   "ID": 2,
    "Name": "red bombardier jacket",
    "Drop": 1,
    "Category": "Light Weight Jacket",
@@ -52,7 +52,7 @@
    "Description": "made from cotton. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
  },
  {
-   "ID": 4,
+   "ID": 3,
    "Name": "blue bombardier jacket",
    "Drop": 1,
    "Category": "Light Weight Jacket",
@@ -69,7 +69,7 @@
    "Description": "made from corduroy and nylon. cropped jacket with large front pockets. leather detailing on cuffs and pockets."
  },
  {
-   "ID": 5,
+   "ID": 4,
    "Name": "red and orange trucker hybrid",
    "Drop": 1,
    "Category": "Light Weight Jacket",
@@ -86,7 +86,7 @@
    "Description": "made from cotton, fleece and some leather detailings. cropped fit. "
  },
  {
-   "ID": 6,
+   "ID": 5,
    "Name": "apron jacket",
    "Drop": 1,
    "Category": "Light Weight Jacket",
@@ -103,7 +103,7 @@
    "Description": "made from recycled aprons. 100% cotton. "
  },
  {
-   "ID": 7,
+   "ID": 6,
    "Name": "fronkenstein t shirt 1",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -120,7 +120,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 8,
+   "ID": 7,
    "Name": "fronkenstein t shirt 2",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -137,7 +137,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 9,
+   "ID": 8,
    "Name": "fronkenstein t shirt 3",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -154,7 +154,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 10,
+   "ID": 9,
    "Name": "fronkenstein t shirt 4",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -171,7 +171,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 11,
+   "ID": 10,
    "Name": "fronkenstein t shirt 5",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -188,7 +188,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 12,
+   "ID": 11,
    "Name": "fronkenstein t shirt 6",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -205,7 +205,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 13,
+   "ID": 12,
    "Name": "fronkenstein t shirt 7",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -222,7 +222,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 14,
+   "ID": 13,
    "Name": "fronkenstein t shirt 8",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -239,7 +239,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 15,
+   "ID": 14,
    "Name": "fronkenstein t shirt 9",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -256,7 +256,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 16,
+   "ID": 15,
    "Name": "fronkenstein t shirt 10",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -273,7 +273,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 17,
+   "ID": 16,
    "Name": "fronkenstein t shirt 11",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -290,7 +290,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 18,
+   "ID": 17,
    "Name": "fronkenstein t shirt 12",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -307,7 +307,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 19,
+   "ID": 18,
    "Name": "fronkenstein t shirt 13",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -324,7 +324,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 20,
+   "ID": 19,
    "Name": "fronkenstein t shirt 14",
    "Drop": 2,
    "Category": "T-Shirts",
@@ -341,7 +341,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 21,
+   "ID": 20,
    "Name": "fronkenstien grey and black ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -358,7 +358,7 @@
    "Description": "all made using recycled tshirts "
  },
  {
-   "ID": 22,
+   "ID": 21,
    "Name": "fronkenstien black and orange ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -375,7 +375,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 23,
+   "ID": 22,
    "Name": "fronkenstien red and blue",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -392,7 +392,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 24,
+   "ID": 23,
    "Name": "fronkenstien blue striped ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -409,7 +409,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 25,
+   "ID": 24,
    "Name": "fronkenstien black and red longsleeve ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -426,7 +426,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 26,
+   "ID": 25,
    "Name": "fronkenstien black and red NTS ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -443,7 +443,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 27,
+   "ID": 26,
    "Name": "fronkenstien orange and red star",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -460,7 +460,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 28,
+   "ID": 27,
    "Name": "fronkenstien orange and red 2 head hole ",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -477,7 +477,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 29,
+   "ID": 28,
    "Name": "fronkenstien black and grey circles",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -494,7 +494,7 @@
    "Description": "all made from recycled tshirts"
  },
  {
-   "ID": 30,
+   "ID": 29,
    "Name": "Barrel Back Trench Coat",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -511,7 +511,7 @@
    "Description": "oversized cotton trench coat with hood. featuring large front patch pockets, and appliques 'cowtown colloseum' patch on the back."
  },
  {
-   "ID": 31,
+   "ID": 30,
    "Name": "Super Wide Barel Trousers",
    "Drop": 1,
    "Category": "Pants",
@@ -528,7 +528,7 @@
    "Description": "cotton trousers with a super-wide fit, tapered towards the ankle. comes with button braces"
  },
  {
-   "ID": 32,
+   "ID": 31,
    "Name": "Super Wide Barell trousers (wool)",
    "Drop": 1,
    "Category": "Pants",
@@ -545,7 +545,7 @@
    "Description": "woolen trousers in a super-wide fit, tapered towards the ankle. come with button braces "
  },
  {
-   "ID": 33,
+   "ID": 32,
    "Name": "Frankenstien shirt long sleeve ",
    "Drop": 1,
    "Category": "Shirts",
@@ -562,7 +562,7 @@
    "Description": "cotton, plaid shirt."
  },
  {
-   "ID": 34,
+   "ID": 33,
    "Name": "Orange rucksack",
    "Drop": 1,
    "Category": "Accessories",
@@ -579,7 +579,7 @@
    "Description": "made from a part synthetic, heavy duty wool. the bag can be draped into different shapes using the metal, handmade buttons. all other hardware is handmade. "
  },
  {
-   "ID": 35,
+   "ID": 34,
    "Name": "Netted crotch longjohn",
    "Drop": 1,
    "Category": "Pants",
@@ -596,7 +596,7 @@
    "Description": "netted longjohns in a heavyweight cotton jersey. hand dyed and featuring a popper clasp at the waistband with a bungee cord for adjustability. "
  },
  {
-   "ID": 36,
+   "ID": 35,
    "Name": "Cropped Workers Jacket",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -613,7 +613,7 @@
    "Description": ""
  },
  {
-   "ID": 37,
+   "ID": 36,
    "Name": "Cowboy Cape",
    "Drop": 1,
    "Category": "Accessories",
@@ -630,7 +630,7 @@
    "Description": "cape toile made from workers jackets and a pair of workers pants. featuring a cowboy patch on the right shoulder."
  },
  {
-   "ID": 38,
+   "ID": 37,
    "Name": "Western type 2 trucker jacket",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -647,7 +647,7 @@
    "Description": ""
  },
  {
-   "ID": 39,
+   "ID": 38,
    "Name": "Skyreacher Puffer Sample Jacket",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -664,7 +664,7 @@
    "Description": "synthetic puffer jacket sample. includes some raw edges. "
  },
  {
-   "ID": 40,
+   "ID": 39,
    "Name": "Swamp Thing wideboy ",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -681,7 +681,7 @@
    "Description": "heavy weight wideboy. outershell made from heavy cotton drill and each leaf machine stitched onto the surface. Cotton lined with a synthetic border."
  },
  {
-   "ID": 41,
+   "ID": 40,
    "Name": "Bull riding vest",
    "Drop": 1,
    "Category": "T-Shirts",
@@ -698,7 +698,7 @@
    "Description": "made from cotton ribbing with elastane. features an appliques bull head. hand dyed."
  },
  {
-   "ID": 42,
+   "ID": 41,
    "Name": "Bull Riders vest",
    "Drop": 1,
    "Category": "Vests",
@@ -715,7 +715,7 @@
    "Description": "recycled vest made from cotton. with appliques patches and padding. hand dyed "
  },
  {
-   "ID": 43,
+   "ID": 42,
    "Name": "Jogging pants",
    "Drop": 1,
    "Category": "Pants",
@@ -732,7 +732,7 @@
    "Description": "made from cotton ribbing with elastane. features an appliques set of guns on the hips. hand dyed."
  },
  {
-   "ID": 44,
+   "ID": 43,
    "Name": "cowtown chaps",
    "Drop": 1,
    "Category": "Pants",
@@ -749,7 +749,7 @@
    "Description": "chaps made from a recycled jacket. fabric contents, cotton and nylon. features appliques patches."
  },
  {
-   "ID": 45,
+   "ID": 44,
    "Name": "Soft Armour Set",
    "Drop": 1,
    "Category": "Heavy Weight Jacket",
@@ -766,7 +766,7 @@
    "Description": "synthetic hood and arms set, to be worn on top of an existing item of clothing. some bleeding of leather into the main panels is reason for price. "
  },
  {
-   "ID": 46,
+   "ID": 45,
    "Name": "Patches",
    "Drop": 1,
    "Category": "Accessories",
@@ -783,7 +783,7 @@
    "Description": "assortment of patches made from synthetics, cottons and leathers."
  },
  {
-   "ID": 47,
+   "ID": 46,
    "Name": "Black Vest ",
    "Drop": 1,
    "Category": "Vests",
@@ -800,7 +800,7 @@
    "Description": "early uni project piece. heavy foam core interior. exterior made from cotton coated in black silicone (caulking) in order to create a waterproof seal. features an adjustable strap and carabiners"
  },
  {
-   "ID": 48,
+   "ID": 47,
    "Name": "Gloves",
    "Drop": 1,
    "Category": "Accessories",
@@ -817,7 +817,7 @@
    "Description": ""
  },
  {
-   "ID": 49,
+   "ID": 48,
    "Name": "Thunder caps",
    "Drop": 1,
    "Category": "Hats",
@@ -834,7 +834,7 @@
    "Description": "made using a variery of materials, mostly cottons, ribs and synthetic ripstops."
  },
  {
-   "ID": 50,
+   "ID": 49,
    "Name": "Cowboy hat ",
    "Drop": 1,
    "Category": "Hats",
@@ -851,7 +851,7 @@
    "Description": "made from upholstery fabrics with a wire brim covered in green ribbing."
  },
  {
-   "ID": 51,
+   "ID": 50,
    "Name": "Red Toy",
    "Drop": 1,
    "Category": "Accessories",
@@ -868,7 +868,7 @@
    "Description": "cotton ribbing toy stuffed with recycled scrap fabric."
  },
  {
-   "ID": 52,
+   "ID": 51,
    "Name": "Bag toy",
    "Drop": 1,
    "Category": "Accessories",
@@ -885,7 +885,7 @@
    "Description": "made from cotton and stuffed with recycled sheeps wool. bag is made from hand dyed ribbing. "
  },
  {
-   "ID": 53,
+   "ID": 52,
    "Name": "Kanagroo hoodie black and red",
    "Drop": 2,
    "Category": "Hoodies",
