@@ -252,7 +252,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "Large",
+   "Measurements": "Medium",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -269,7 +269,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "Large",
+   "Measurements": "Medium ",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -286,7 +286,7 @@
    "Stock": 1,
    "Postage": 15,
    "Sold": "F",
-   "Measurements": "Large",
+   "Measurements": "Small",
    "Description": "all made from recycled tshirts"
  },
  {
@@ -766,6 +766,23 @@
    "Description": "synthetic hood and arms set, to be worn on top of an existing item of clothing. some bleeding of leather into the main panels is reason for price. "
  },
  {
+   "ID": 46,
+   "Name": "Patches",
+   "Drop": 1,
+   "Category": "Accessories",
+   "Main_Img": "/products/Accessories/Patches/1.webp",
+   "Img_Path": "/products/Accessories/Patches/",
+   "No_Img": 1,
+   "Price (no vat)": 10,
+   "Price": 10.5,
+   "RRP": null,
+   "Stock": 4,
+   "Postage": 15,
+   "Sold": "F",
+   "Measurements": "",
+   "Description": "assortment of patches made from synthetics, cottons and leathers."
+ },
+ {
    "ID": 47,
    "Name": "Black Vest ",
    "Drop": 1,
@@ -798,6 +815,23 @@
    "Sold": "SOLD",
    "Measurements": "",
    "Description": ""
+ },
+ {
+   "ID": 49,
+   "Name": "Thunder caps",
+   "Drop": 1,
+   "Category": "Hats",
+   "Main_Img": "/products/Hats/Thunder Caps/1.webp",
+   "Img_Path": "/products/Hats/Thunder Caps/",
+   "No_Img": 2,
+   "Price (no vat)": 75,
+   "Price": 78.75,
+   "RRP": null,
+   "Stock": 10,
+   "Postage": 15,
+   "Sold": "F",
+   "Measurements": "O/S",
+   "Description": "made using a variery of materials, mostly cottons, ribs and synthetic ripstops."
  },
  {
    "ID": 50,
